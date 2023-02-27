@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">tampilan pesensi</string>
+    <string name="tabel_absensi_pegawai">TABEL ABSENSI PEGAWAI</string>
+    <string name="selesai">Selesai</string>
+</resources>
